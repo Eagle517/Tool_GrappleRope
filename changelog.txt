@@ -1,0 +1,17 @@
+Changes by SolarFlare (2034)
+- Cleaned up, converted to state system usage.
+- Fixed velocity "jump" problems when hooking.
+- Smoothened both general swinging and rope particle.
+- New GrappleRope Playertype.
+
+Changes by Demian (10334)
+- Removed GrappleRopeExplosionParticle, GrappleRopeExplosionEmitter and Air Control Playertype.
+- New rope particle and color.
+- Fixed console errors.
+- Enhanced script overall appearance.
+
+Changes by Eagle517 (25351)
+- No longer uses the bowFireSound audio profile
+- Removed GrappleRopeAnywhere preference and GrappleRopeTarget
+- Fixed instance where a previously fired grapple projectile would cause a re-grapple
+- Fixed issue where a player would grapple to their old grapple position for a slight moment
